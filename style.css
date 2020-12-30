@@ -41,7 +41,11 @@ footer {
     font-size: 120px;
     font-weight: 900;
     text-align: center;
-    color: gold;
+    color: rgb(184, 183, 183);
     letter-spacing: 50px;
     padding-left: 50px;
+}
+
+body {
+    background-color: rgb(255, 239, 170);
 }
